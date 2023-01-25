@@ -1,4 +1,4 @@
-import jwt from 'jsonwebtoken'
+import jwt, { Jwt } from 'jsonwebtoken'
 
 const secret = 'cheva-do-jwt'
 
